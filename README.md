@@ -1,6 +1,6 @@
 # Gerador de Senhas Aleatórias
 
-Este script Python gera senhas aleatórias com base nos parâmetros fornecidos.
+Este script Python gera senhas aleatórias e forte para protejer as suas contas pessoais e empresariais.
 - Fácil de usar e integrar em outros projetos.
 
 ## Requisitos
