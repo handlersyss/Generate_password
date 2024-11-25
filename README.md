@@ -16,7 +16,7 @@ Este script Python gera senhas aleatórias e forte para protejer as suas contas 
 
    cd nome-do-repositorio
 
-   pip3 install -r requirements.txt
+   pip3 install colorama
 
    python3 Generate_password.py
 
